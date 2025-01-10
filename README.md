@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrey0911
 - 👀 I’m interested in data analaysis and visualization
-- 🌱 I’m currently learning python and database
-- 💞️ I’m looking to collaborate on Python projects and data science
+- 🌱 I’m currently learning java with Spring Boot
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 You can reach me at shresth09@gmail.com
 
 <!---
